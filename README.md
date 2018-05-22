@@ -1,5 +1,9 @@
 # Hellow-world
-My first application project
+#My first application project
 #hello python! first commition
 #coding: utf-8
-memeda
+#memeda
+import sys
+from urllib import *
+class pan(self):
+  
